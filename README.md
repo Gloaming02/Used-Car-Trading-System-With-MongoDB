@@ -1,5 +1,8 @@
 # Used Car Trading System with MongDB
 
+## New Featrue with Redis 
+https://github.com/Gloaming02/Used-Car-Trading-System-With-Redis
+
 ## Initialize the database
 mongorestore --uri "mongodb://localhost:27017" --db UsedCarSystem --drop db/UsedCarSystem
 
